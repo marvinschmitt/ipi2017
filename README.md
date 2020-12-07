@@ -1,2 +1,2 @@
 # ipi2017
-Meine IPI-Lösungen
+My hand-ins to the lecture "Introduction to Practical Computer Science" at Heidelberg University.
